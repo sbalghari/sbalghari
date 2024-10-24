@@ -1,6 +1,8 @@
+<div align="center">
+  <img alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"> 
+</div>
 <h1 align="center">Hi 👋, I'm Saifullah Balghari</h1>
 <h3 align="center">An aspiring ML engineer from Pakistan</h3>
-
 
 - 🔭 I’m currently working on **My Portfolio**
 
