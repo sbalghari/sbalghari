@@ -53,9 +53,6 @@
   <a href="https://linkedin.com/in/saifullah-balghari">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/#">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a> 
   <a href="https://youtube.com/@saifullahbalghari">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
   </a>
