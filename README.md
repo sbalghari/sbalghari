@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello,%20World!&fontSize=90&fontAlign=50&fontAlignY=30&desc=It's%20Saifullah-Balghari!&descAlign=50&descSize=30&animation=twinkling">
-</p>
-
-<br>
-
 <h2 align="center">⚡ STATS ⚡</h2>
 <p align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Saifullah-Balghari&show_icons=true&theme=github_dark&&hide_border=true"> 
