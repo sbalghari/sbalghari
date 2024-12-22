@@ -1,7 +1,6 @@
 <h2 align="center">⚡ STATS ⚡</h2>
 <p align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Saifullah-Balghari&show_icons=true&theme=github_dark&&hide_border=true"> 
-  <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Saifullah-Balghari&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Saifullah-Balghari's github streak stats"> 
 </p>
 
 <br>
