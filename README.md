@@ -1,11 +1,14 @@
-# Hi there! I'm Saifullah Balghari  
+- 🔭 I’m currently working on **Hyprland-Settings-App**
 
-I'm a Computer Science student passionate about Linux, Modding Games, and writing clean code.  
+- 🌱 I’m currently learning **Python, Python-gobjects, Linux and Bash scripting**
 
-- **Tech Stack:** Python, Shell, JavaScript, CSS  
-- **Current Focus:** A GTK-based settings app for **Hyprland**  
-- **Linux Setup:** Arch Linux + Hyprland + Fish + Kitty  
-- **Interests:** Linux ricing, customization, automation
+- 👯 I’m looking to collaborate on **Hyprland-Settings-App**
+
+- 🤝 I’m looking for help with **GTK-3/4 Development with python**
+
+- 💬 Ask me about **Linux, Hyprland and Python**
+
+- ⚡ Fun fact **i am nocturnal...**
   
 #
 
