@@ -1,10 +1,10 @@
-- 🔭 I’m currently working on **Hyprland-Settings-App**
+- 🔭 I’m currently working on **HyprDots**
 
-- 🌱 I’m currently learning **Python, Python-gobjects, Linux and Bash scripting**
+- 🌱 I’m currently learning **Python, Linux, and Bash scripting**
 
-- 👯 I’m looking to collaborate on **Hyprland-Settings-App**
+- 👯 I’m looking to collaborate on **HyprDots**
 
-- 🤝 I’m looking for help with **GTK-3/4 Development with python**
+- 🤝 I’m looking for help with **GTK-4 Development with python**
 
 - 💬 Ask me about **Linux, Hyprland and Python**
 
