@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **HyprDots**
+- 🔭 I’m currently working on **SBDots**
 
 - 🌱 I’m currently learning **Python, Linux, and Bash scripting**
 
