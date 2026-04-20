@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **SBDots**
+- 🔭 I’m currently working on **Some private projects**
 
 - 🌱 I’m currently learning **Python, Linux, and Bash scripting**
 
@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Linux, Hyprland and Python**
 
-- ⚡ Fun fact **i am nocturnal...**
-  
 #
 
 <p align="center">
