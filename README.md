@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on **Some private projects**
 
-- 🌱 I’m currently learning **Python, Linux, and Bash scripting**
+- 🌱 I’m currently learning **Python, Linux, and System designing**
 
-- 🤝 I’m looking for help with **GTK-4 Development with python**
+- 🤝 I’m looking for help with **GUI-Development with QT/QML**
 
 - 💬 Ask me about **Linux, Hyprland and Python**
 
