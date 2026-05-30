@@ -1,14 +1,11 @@
-- 🔭 I’m currently working on **Some private projects**
+🔭 I’m currently working on **Treeva and SBDots**
 
-- 🌱 I’m currently learning **Python, Linux, and System designing**
+🌱 I’m currently learning **Advanced Python, Linux, and TUI development**
 
-- 🤝 I’m looking for help with **GUI-Development with QT/QML**
+🤝 I’m looking for help with **Rust**, i want to learn.
 
-- 💬 Ask me about **Linux, Hyprland and Python**
+💬 Ask me about **Linux, Hyprland, Python, and building dev tools**
 
 #
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbalghari&hide=contribs&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&theme=catppuccin_mocha&border_radius=15&hide_border=true" height="140"/>
-  <img src="https://streak-stats.demolab.com?user=sbalghari&theme=catppuccin-mocha&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=500&hide_border=true" height="140" />
-</p> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sbalghari&theme=material&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=512&card_height=186&type=png)](https://git.io/streak-stats)
