@@ -8,4 +8,5 @@
 
 #
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sbalghari&theme=material&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=512&card_height=186&type=png)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sbalghari&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=sbalghari&layout=compact&langs_count=8&theme=catppuccin_mocha)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sbalghari&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=sbalghari&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
