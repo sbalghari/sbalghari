@@ -1,6 +1,6 @@
 > Into **Linux**, **FOSS**, and **AI**.
 
-> Building **Treeva** and Some side **Projects**
+> Building **Treeva** and some side **Projects**
 
 > Learning **Rust, Linux, and Web development**
 
